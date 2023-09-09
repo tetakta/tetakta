@@ -1,4 +1,4 @@
-![image](https://____)
+![image](https://github.com/tetakta/1111/blob/b60fc36b1e8b84f60d12d9d968c0eee0ffeadfc0/img/BBO%20model.png)
 
 
 - 👋 Hi, tetakta
