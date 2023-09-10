@@ -9,8 +9,6 @@
 
 -  You can contact me
 
-    [🐦Twitter](https://twitter.com/tetakta)
-
     👾Nostr: npub1sdu2jqurplu9cpkqx6gnkp4hxtllg52z9vnw26f0nchp5h3urv3q7sje9m
 
     ⚡LNURL: tetakta@zbd.gg / tetakta@stacker.news / 
@@ -18,5 +16,7 @@
     [:octocat:Github](https://github.com//tetakta)
   
     [🗺️ Discord](@tetakta)
+
+    [🐦Twitter](https://twitter.com/tetakta)
 
 ![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
