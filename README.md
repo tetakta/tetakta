@@ -19,3 +19,4 @@
   
     [🗺️ Discord](@tetakta)
 
+![image](https://github.com/tetakta/tetakta/blob/13d4eb772c40cb40e02cffce2fc29a9d60fbec74/img/bitcoin%20powered.png)
