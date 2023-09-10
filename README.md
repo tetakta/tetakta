@@ -14,8 +14,6 @@
     ⚡LNURL: tetakta@zbd.gg / tetakta@stacker.news / 
 
     [:octocat:Github](https://github.com//tetakta)
-  
-    [🗺️ Discord](@tetakta)
 
     [🐦Twitter](https://twitter.com/tetakta)
 
