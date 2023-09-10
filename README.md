@@ -11,7 +11,7 @@
 
     👾Nostr: npub1sdu2jqurplu9cpkqx6gnkp4hxtllg52z9vnw26f0nchp5h3urv3q7sje9m
 
-    ⚡LNURL: tetakta@zbd.gg / tetakta@stacker.news / 
+    ⚡LNURL: tetakta@getalby.com / tetakta@stacker.news / 
 
     [:octocat:Github](https://github.com//tetakta)
 
