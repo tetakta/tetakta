@@ -4,8 +4,8 @@
 - 🇺🇦 Hi, tetakta
 - ⚡️ I’m interested in Bitcoin, Lightning Network, Nostr, Taproot, DlC, RGB, TBD ...
 - 🌵 I’m currently building
-  - [Starwee](https://____) Starwee is an intermediary between the world of old technologies and new business innovations
-  - [High Culture](https://____) HC - High Culture Social club based on Bitcoin.
+  - [Starwee]([https://github.com/Bitcoin-Based/starwee) Starwee is an intermediary between the world of old technologies and new business innovations
+  - [High Culture](https://high-culture.club/) HC - High Culture Social club based on Bitcoin.
 
 -  You can contact me
 
