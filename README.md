@@ -1,13 +1,13 @@
 ![image](https://github.com/tetakta/1111/blob/b60fc36b1e8b84f60d12d9d968c0eee0ffeadfc0/img/BBO%20model.png)
 
 
-- 👋 Hi, tetakta
-- 👀 I’m interested in Bitcoin-only, Nostr-only, Hypercore-only, Lightning Network-only and TBD-only
-- 🌱 I’m currently building
-  - [Starwee](https://____) and more.
-  - [Starwee](https://____) and more.
+- 👾 Hi, tetakta
+- ⚡️ I’m interested in Bitcoin, Lightning Network, Nostr, Taproot, DlC, RGB, TBD ...
+- 🌵 I’m currently building
+  - [Starwee](https://____) Starwee is an intermediary between the world of old technologies and new business innovations
+  - [High Culture](https://____) HC - High Culture Social club based on Bitcoin.
 
-- 📫 You can contact me
+-  You can contact me
 
     [🐦Twitter](https://twitter.com/tetakta)
 
