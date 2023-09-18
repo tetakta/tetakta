@@ -1,9 +1,10 @@
 ![image](https://github.com/tetakta/1111/blob/b60fc36b1e8b84f60d12d9d968c0eee0ffeadfc0/img/BBO%20model.png)
 
 
-- 🇺🇦 Hi, I’m tetakta
-- ⚡️ I’m interested in Bitcoin, Lightning Network, Nostr, Taproot, DLC, RGB, TBD ...
-- 🌵 I’m currently building:
+- 🇺🇦 Welcome to the tetakta space 
+- ⚡️ gathering important information and action towards :
+     Bitcoin, Lightning Network, Nostr, Taproot, DLC, RGB, TBD ...
+- 🌵 this is where projects are developed:
   - [Starwee](https://github.com/Bitcoin-Based/starwee) is an intermediary between the world of old technologies and new business innovations
   - [High Culture](https://high-culture.club/) HC - Social club based on Bitcoin.
 
