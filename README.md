@@ -3,11 +3,10 @@
 
 - 🇺🇦 Welcome to the tetakta space 
 - ⚡️ gathering important information and action towards :  
-      **Bitcoin, Lightning Network, Nostr, Taproot, DLC, RGB, TBD** ...
+      **Bitcoin, Lightning Network, Nostr, Taproot, DLC, Ecash** ...
 - 🌵 this is where projects are developed:
   - [Starwee](https://github.com/Bitcoin-Based/starwee) is an intermediary between the world of old technologies and new business innovations
   - [Ukraine Bitcoin HUB](https://njump.me/npub1ejn6vu9rkqyqldq4ufn6sdhwyyua97uuglkk8ekpa0xx4wdkvqksdvdst0) study and adaptation of Bitcoin technologies in Ukrainian 
-  - [High Culture](https://high-culture.club/) HC - Social club based on Bitcoin.
 
 -  You can contact me
 
