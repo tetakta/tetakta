@@ -1,20 +1,20 @@
-![image](https://github.com/tetakta/1111/blob/b60fc36b1e8b84f60d12d9d968c0eee0ffeadfc0/img/BBO%20model.png)
+# teta
 
+Building **verification infrastructure for the Agent Internet**.
 
-- 🇺🇦 Welcome to the my space 
-- ⚡️ gathering important information and action towards :  
-      **Bitcoin, Lightning Network, Nostr, Taproot, DLC, Ecash** ...
-- 🌵 this is where projects are developed:
-  - [BOB](https://github.com/Bitcoin-Based/starwee) is an intermediary between the world of old technologies and new business innovations
-  - [HUB](https://njump.me/npub1ejn6vu9rkqyqldq4ufn6sdhwyyua97uuglkk8ekpa0xx4wdkvqksdvdst0) study and adaptation of Bitcoin technologies 
+TETA+PI is an open verification protocol that lets AI agents
+discover and trust real-world entities — businesses, people,
+and organizations.
 
--  You can contact me
+## What I'm building
 
-    👾Nostr: npub1sdu2jqurplu9cpkqx6gnkp4hxtllg52z9vnw26f0nchp5h3urv3q7sje9m
+- 🔐 [TETA+PI Protocol](https://tetapi.dev) — trust layer for agentic AI
+- 📡 MCP Server — verified entity registry for AI agents
+- 📷 PI Camera — cryptographic verification via C2PA + Bitcoin OpenTimestamps
 
-    ⚡LNURL: tetakta@getalby.com / tetakta@stacker.news / 
+## Stack
+TypeScript · Next.js · FastAPI · PostgreSQL · C2PA · Bitcoin OpenTimestamps
 
-    [:octocat:Github](https://github.com//tetakta)
-
-
-![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
+## Connect
+🌐 [tetapi.dev](https://tetapi.dev)
+📍 Berlin, Germany
